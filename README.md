@@ -1,12 +1,12 @@
 [![opensource](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](#)
 [![licença](https://img.shields.io/badge/licença-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)
-[![Estrelas](https://img.shields.io/github/stars/AndreBFarias/Python-Data-Toolkit.svg?style=social)](https://github.com/AndreBFarias/Python-Data-Toolkit/stargazers)
-[![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen.svg)](https://github.com/AndreBFarias/Python-Data-Toolkit/issues)
+[![Estrelas](https://img.shields.io/github/stars/AndreBFarias/DataLoom.svg?style=social)](https://github.com/AndreBFarias/DataLoom/stargazers)
+[![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen.svg)](https://github.com/AndreBFarias/DataLoom/issues)
 
 # Python Data Toolkit
 
-![Ícone do Data Toolkit](https://raw.githubusercontent.com/AndreBFarias/Python-Data-Toolkit/main/assets/icon.png)
+![Ícone do Data Toolkit](https://raw.githubusercontent.com/AndreBFarias/DataLoom/main/assets/icon.png)
 
 Ferramentas visuais para manipulação e análise de dados tabulares. Reúne num único lugar funcionalidades para dividir, limpar, comparar e transformar planilhas sem escrever código, com assistente de IA integrado.
 
@@ -14,7 +14,7 @@ Ferramentas visuais para manipulação e análise de dados tabulares. Reúne num
 
 ## Interface
 
-![Screenshot do Data Toolkit](https://raw.githubusercontent.com/AndreBFarias/Python-Data-Toolkit/main/assets/background.png)
+![Screenshot do Data Toolkit](https://raw.githubusercontent.com/AndreBFarias/DataLoom/main/assets/background.png)
 
 ## Pré-requisitos
 
@@ -41,7 +41,7 @@ Ferramentas visuais para manipulação e análise de dados tabulares. Reúne num
 O projeto foi refatorado para uma arquitetura modular:
 
 ```
-Python-Data-Toolkit/
+DataLoom/
 ├── src/
 │   ├── core/           # Lógica central (config, dados estáticos)
 │   ├── tabs/           # Módulos de cada aba (funcionalidades)
@@ -56,8 +56,8 @@ Python-Data-Toolkit/
 ## Instalação
 
 ```bash
-git clone https://github.com/AndreBFarias/Python-Data-Toolkit.git
-cd Python-Data-Toolkit
+git clone https://github.com/AndreBFarias/DataLoom.git
+cd DataLoom
 ./install.sh
 ```
 
